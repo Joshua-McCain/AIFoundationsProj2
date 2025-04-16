@@ -9,7 +9,7 @@ nltk 3.9.1
 
 
 TO RUN THE CODE:
-TLDR: For running the models, select run all code blocks once the constants at the top are modified to your liking, and follow the prompts the code gives you for input.
+TLDR - For running the models, select run all code blocks in Project2.ipynb once the constants at the top are modified to your liking, and follow the prompts the code gives you for input.
 
 The modifiable constants that control all of the models' hyperparameters at once can be found at the very top of the notebook under the "Constants" secondary header. Once the constants are satisfactory, you can preload all of the necessary data and functions by running all of the code blocks under the top header "Function/Class Definitions & Setup." Collapse this header and the remaining code is found under the "Main Code" header.
 
