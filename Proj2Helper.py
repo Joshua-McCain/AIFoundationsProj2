@@ -74,3 +74,4 @@ class TextDataset(Dataset):
         input_ids = torch.tensor(tokens[:-1], dtype=torch.long)
         target_ids = torch.tensor(tokens[1:], dtype=torch.long)
         return input_ids, target_ids
+    
